@@ -1,0 +1,2 @@
+# tradingai
+trading 
